@@ -1,7 +1,7 @@
 # Unix Command Shell - Minishell
 
 <p align="center">
-  <img src="./assets/minishell_logo.png" alt="project badge"/>
+  <img src="./assets/minishell.png" alt="project badge"/>
 </p>
 
 
